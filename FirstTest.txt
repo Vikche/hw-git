@@ -1,2 +1,0 @@
-Print ("Test print")
-Print ("Second test")
