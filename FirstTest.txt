@@ -1,1 +1,2 @@
-Print ("Test Print")
+Print ("Test print")
+Print ("Second test")
